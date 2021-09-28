@@ -3,7 +3,7 @@
 ## Descrição :speech_balloon: 
 <p align="center">
 
-Projeto de um portifólio criado durante a Imersão Programação do Zero, realizada pela Cubos Academy!
+Projeto de um portifólio criado durante a Imersão Programação do Zero, realizada pela Cubos Academy.
 Os dados utilizados no portifólio são apenas ilustrativos.
 
 ## Tecnologias :pushpin:
